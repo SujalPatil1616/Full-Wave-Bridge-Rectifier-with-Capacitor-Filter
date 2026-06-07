@@ -35,7 +35,7 @@ A capacitor is connected across the load resistor to smooth the rectified voltag
 
 ## Circuit Diagram
 
-<img src="case1_circuit.png" width="700">
+<img src="https://github.com/SujalPatil1616/Full-Wave-Bridge-Rectifier-with-Capacitor-Filter/blob/main/case1_circuit.png" width="700">
 
 ## Output Waveform
 
